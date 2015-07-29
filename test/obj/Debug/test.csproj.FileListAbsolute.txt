@@ -70,3 +70,6 @@ C:\Users\mun\Downloads\edu-piano-master\edu-piano-master\test\obj\Debug\App.baml
 C:\Users\mun\Downloads\edu-piano-master\edu-piano-master\test\bin\Debug\back.png
 C:\Users\mun\Downloads\edu-piano-master\edu-piano-master\test\obj\Debug\UI\Main\MainWindow.baml
 C:\Users\mun\Downloads\edu-piano-master\edu-piano-master\test\obj\Debug\UI\Main\MainWindow.g.cs
+C:\Users\user\Desktop\9012\test\bin\Debug\test.exe.config
+C:\Users\user\Desktop\9012\test\obj\Debug\test.exe
+C:\Users\user\Desktop\9012\test\obj\Debug\test.pdb
